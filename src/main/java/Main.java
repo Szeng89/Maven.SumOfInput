@@ -27,7 +27,7 @@ public class Main {
     }
     
     
-    public static int getInputNumber() { // gee, may thi sis useful in another lab?
+    public static int getInputNumber() { // gee, maybe this is useful in another lab?
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter any number: ");
 
@@ -49,4 +49,5 @@ public class Main {
     // for Extra extra credit - compare the methods and show which one is faster
     // google "how to time some java code"
     // use "System.currentTimeMillis()" to ask the system what time it is.
+
 }
